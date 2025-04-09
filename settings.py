@@ -1,0 +1,17 @@
+#Bruker denne for å ha "viktige" variabler litt mer ryddig og lett tilgjengelig
+
+RES = WIDTH, HEIGHT =  900, 800
+FPS = 60
+
+PLAYER_POS = 1.5, 6
+PLAYER_SPEED = 0.00005
+
+BARREL_SPEED = 0.000052
+
+JUMP_POWER = 0.000075
+JUMP_RELEASE_FACTOR = 1
+JUMP_TIME = 5
+
+FRICTION = 0
+GRAVITY = 0.000001
+ACCELERATION = 0.0001
